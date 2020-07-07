@@ -2,7 +2,8 @@ const reasonInput = document.querySelector('#input-reason');
 const amountInput = document.querySelector('#input-amount');
 const cancelBtn = document.querySelector('#btn-cancel');
 const confirmBtn = document.querySelector('#btn-confirm');
-const expensesList = document.querySelector('#expenses-list');  
+const expensesList = document.querySelector('#expenses-list'); 
+// const clearTotalExpenses = document.querySelector('total-expenses');  
 const totalExpensesOutput = document.querySelector('#total-expenses');
 // const alertCtrl = document.querySelector('ion-alert-controller');
 
